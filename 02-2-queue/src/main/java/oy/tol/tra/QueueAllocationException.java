@@ -11,3 +11,4 @@ public class QueueAllocationException extends RuntimeException {
       super(message);
    }   
 }
+  
